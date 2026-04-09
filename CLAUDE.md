@@ -50,7 +50,7 @@ The new platform must pull data from these systems and present a unified view of
 
 # Solution Proposal
 
-See [SOLUTION_PROPOSAL.md](SOLUTION_PROPOSAL.md) for the complete proposal covering business outcomes, product vision, data strategy, architecture, AI capabilities, UX designs, and MVP delivery plan.
+See [Solution Proposal](Solution%20Proposal.md) for the complete proposal covering business outcomes, product vision, data strategy, architecture, AI capabilities, UX designs, and MVP delivery plan.
 
 ---
 
